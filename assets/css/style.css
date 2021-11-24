@@ -1,0 +1,78 @@
+/* Estilos da páginna index.html */
+        body {
+            background: linear-gradient(236.85deg, #000000 27.26%, #4f0000 96.03%);
+         }
+
+        .center{
+            text-align: center;
+        }
+
+        .center-justified {
+            text-align: justify;
+        }
+
+        .borda{
+            background: #ecf4ff;
+            color: #1C1C1C;
+            margin: 64px;
+            border-radius: 20px;
+            box-shadow: 6px 6px 6px #0e1d2f;
+            padding: 64px;            
+        }
+
+        .container{
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #menu li{
+            display: inline;
+            padding: 20px;
+            text-decoration: none;
+        }
+
+        #menu li a{
+            text-decoration: none;
+            color: #ffffff;
+            font-size: 20px;
+        }
+
+        #menu li a:hover{
+            color: grey;
+        }
+
+        .p-30{
+            padding: 30px;
+        }
+
+        .br-50{
+            border-radius: 50%;
+        }
+
+        .wh-300{
+            width: 300px;
+            height: 300px;
+        }
+
+        .tm-social{
+            width: 50px;
+            height: 50px;
+        }
+
+        .mb-50{
+            margin-bottom: 50px;
+        }
+
+
+
+
+
+
+
+        /* Estilos da páginna ccontato.html */
+
+        .ml-50{
+            margin-left: 50px;
+        }
